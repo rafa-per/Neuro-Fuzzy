@@ -1,5 +1,5 @@
-# Capacitive Deionization 
-Capacitivr Deionization using Neuro-fuzzy
+# Neuro-fuzzy
+Capacitive Deionization and Power Prediction Using Neuro-fuzzy
 
 ## Description
 This project aims to develop a value prediction system using Adaptive Neuro Fuzzy Inference System
